@@ -1,0 +1,14 @@
+@font-face{
+	font-family:"Cubano-Regular";
+	src:url("../fonts/Cubano-Regular.eot") format("eot"),
+	url("../fonts/Cubano-Regular.woff") format("woff"),
+	url("../fonts/Cubano-Regular.ttf") format("truetype"),
+	url("../fonts/Cubano-Regular.svg#Cubano-Regular") format("svg");
+}
+@font-face{
+	font-family:"Brandon Grotesque";
+	src:url("../fonts/Brandon Grotesque.eot") format("eot"),
+	url("../fonts/Brandon Grotesque.woff") format("woff"),
+	url("../fonts/Brandon Grotesque.ttf") format("truetype"),
+	url("../fonts/Brandon Grotesque.svg#Brandon Grotesque") format("svg");
+}
